@@ -1,0 +1,13 @@
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+D:\Marco\Cursos\C#\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+D:\Marco\Cursos\C#\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
